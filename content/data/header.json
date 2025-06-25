@@ -39,12 +39,12 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Service",
+            "altText": "Service",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "",
+                    "url": "/case-study-1",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
