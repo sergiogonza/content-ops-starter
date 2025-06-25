@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/case-study-2",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
