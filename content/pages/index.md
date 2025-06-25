@@ -88,7 +88,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: We help you resolve your tax problems in 3 easy steps
       color: text-dark
       styles:
         self:
