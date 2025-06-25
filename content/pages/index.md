@@ -361,9 +361,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+      - title: ''
         tagline: March 10
         subtitle: 'Jane Walters, Company'
         text: >-
