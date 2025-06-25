@@ -147,7 +147,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: STEP 3
-        subtitle: Faster
+        subtitle: Achieve Tax Relief
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
