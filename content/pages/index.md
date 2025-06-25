@@ -336,10 +336,10 @@ sections:
       - title: ''
         tagline: October 25
         subtitle: Marco Silva
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "The team at Tax Defense Group USA was fantastic. They resolved my tax
+          issues and even managed to get me a reduction in my debt. They were
+          always responsive and explained everything clearly. Great service!"
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
