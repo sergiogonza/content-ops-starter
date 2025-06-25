@@ -87,15 +87,94 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+At **Tax Defense Group USA**, we understand how overwhelming tax debt can be. Whether you're behind on your filings, facing penalties, or already in collections, our team is here to help you find real solutions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### **What Is Tax Relief?**
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+Tax relief refers to a range of programs and options designed to help individuals and businesses resolve their outstanding tax issues with the IRS or state agencies. If you're dealing with wage garnishments, bank levies, liens, or mounting penalties, our specialists can help you take control through negotiation and resolution strategies tailored to your financial situation.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
-![](/images/img-placeholder.svg)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+### **Tax Relief Services We Offer**
+
+**✔ Audit Representation**
+
+Professional support to guide and defend you through an IRS audit.
+
+**✔ Innocent Spouse Relief**
+
+We help remove tax liability unfairly assigned to you due to your spouse or ex-spouse.
+
+**✔ Payroll Tax Relief**
+
+Solutions for employers behind on payroll tax obligations.
+
+**✔ Tax Lien Solutions**
+
+Avoid or resolve liens with strategies such as:
+
+*   Appealing the Lien
+
+*   Lien Release
+
+*   Lien Subordination
+
+*   Credit Report Removal
+
+*   Lien Avoidance
+
+**✔ Levy Protection**
+
+Protection from or release of:
+
+*   IRS Bank Levy
+
+*   State Bank Levy
+
+*   Wage Garnishment
+
+*   Social Security Levy
+
+*   Pension Levy
+
+
+
+### **Tax Negotiation Programs**
+
+**1. IRS Installment Agreement**
+
+Set up a monthly payment plan if you can’t pay your full balance upfront. Required for individuals with debts over $25,000 and businesses over $10,000.
+
+**2. Offer in Compromise (OIC)**
+
+Settle your tax debt for less than you owe if you’re facing serious financial hardship. The IRS reviews:
+
+*   Income & expenses
+
+*   Assets
+
+*   Ability to pay
+
+**3. Currently Not Collectible (CNC) Status**
+
+If you can’t pay anything due to extreme financial hardship, we can help you request CNC status. While penalties and interest may continue, the IRS suspends collections. If the 10-year collection window expires while under CNC, your debt may become permanently uncollectible.
+
+**4. Penalty Abatement**
+
+Remove or reduce IRS penalties if you qualify due to reasonable cause, clean compliance history, or other valid circumstances.
+
+**5. Short-Term Extension**
+
+Need extra time to pay your full balance? We can request a one-time extension of up to 120 days. Keep in mind, interest and a 0.5% monthly penalty will still apply.
+
+
+
+### **Special Tax Relief Situations**
+
+**📍 Disaster Relief**
+
+If you've been affected by a natural disaster (hurricane, flood, fire, pandemic, earthquake), you may qualify for extensions and special relief programs.
+
+**🦠 COVID-19 Relief**
+
+The IRS has implemented several temporary measures and support options for those impacted by the pandemic. We stay updated so you don’t miss out on available relief.
