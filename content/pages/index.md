@@ -99,10 +99,7 @@ sections:
       - type: FeaturedItem
         title: STEP 1
         subtitle: Free Consultation
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Call now to speak with a specialist and discover your options.\n\n\U0001F4DE 888-000-0000\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
