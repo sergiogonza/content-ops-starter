@@ -246,7 +246,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: ''
-        tagline: 'Laura González, May 14'
+        tagline: May 14
         subtitle: 'Maria Walters, Company'
         text: >
           "I contacted Tax Defense Group USA for assistance with back taxes, and
