@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Start resolving your tax issues from the comfort of your home.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **Tax Defense Group USA** is made up of experienced and dedicated
+      professionals committed to helping you with all your tax matters. Whether
+      you're facing IRS debt, need help with tax preparation, or are being
+      audited, we’re here to provide trusted, step-by-step support.
     actions:
       - label: Get started
         altText: ''
