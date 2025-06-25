@@ -43,7 +43,7 @@
             "altText": "Service",
             "links": [
                 {
-                    "label": "",
+                    "label": "Tax Debt Relief",
                     "url": "/case-study-1",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -51,8 +51,8 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Tax Resolution",
+                    "url": "/case-study-2",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
