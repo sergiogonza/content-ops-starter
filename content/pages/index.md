@@ -128,7 +128,7 @@ sections:
           We’ll contact the IRS, review your records, and design a tailored
           resolution plan.
         image:
-          url: /images/icon2.svg
+          url: /images/DK-4150.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
