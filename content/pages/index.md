@@ -98,7 +98,7 @@ sections:
     items:
       - type: FeaturedItem
         title: STEP 1
-        subtitle: Numbers Done
+        subtitle: Free Consultation
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
