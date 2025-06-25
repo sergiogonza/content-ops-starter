@@ -305,7 +305,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: Testimonial 3
+        tagline: September 12
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
