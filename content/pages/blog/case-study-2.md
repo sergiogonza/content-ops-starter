@@ -3,12 +3,14 @@ title: Tax Resolution
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Tax Defense Group USA is here to help you regain control. Our tax resolution
+  experts provide personalized strategies designed to stop aggressive collection
+  efforts and guide you toward long-term financial recovery.We understand that
+  every tax situation is unique. Whether you're dealing with years of unfiled
+  returns, wage garnishments, or a bank levy, we’ll work with you to identify
+  the most effective resolution option.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/DK-4150.png
   altText: Case study 2
   styles:
     self:
