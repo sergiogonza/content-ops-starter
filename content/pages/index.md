@@ -278,10 +278,11 @@ sections:
       - title: ''
         tagline: February 7
         subtitle: Carlos Pérez
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "Excelente experiencia con Tax Defense Group USA. Gracias a su equipo,
+          mi situación con el IRS fue resuelta de manera rápida y eficaz. Me
+          guiaron paso a paso y me ofrecieron un plan de pago accesible. ¡Los
+          recomiendo sin duda alguna!"
         image:
           url: /images/DK-4150.png
           altText: John Doe
