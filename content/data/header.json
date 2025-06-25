@@ -40,7 +40,7 @@
         },
         {
             "label": "Service",
-            "altText": "Blog",
+            "altText": "Service",
             "links": [
                 {
                     "label": "Dropdown item",
