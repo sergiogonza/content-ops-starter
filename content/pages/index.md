@@ -148,10 +148,10 @@ sections:
         type: FeaturedItem
       - title: STEP 3
         subtitle: Achieve Tax Relief
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          With successful negotiation, your tax burden can be resolved, giving
+          you peace of mind and a path to financial stability. As a client,
+          you’ll receive ongoing support to stay compliant.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
