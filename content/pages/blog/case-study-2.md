@@ -29,9 +29,20 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          At Tax Defense Group USA, we specialize in helping individuals and 
+
+          businesses resolve their tax issues with confidence. Our team of 
+
+          experienced professionals is committed to providing honest guidance, 
+
+          personalized strategies, and reliable support every step of the way. 
+
+          Whether you're facing IRS debt, audits, or need help with tax
+          filings, 
+
+          we're here to protect your rights and secure your financial peace of 
+
+          mind.
         image:
           url: /images/DK-4150.png
           altText: Company logo
