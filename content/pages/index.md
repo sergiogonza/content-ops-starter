@@ -307,10 +307,11 @@ sections:
       - title: ''
         tagline: September 12
         subtitle: Sofia Ramírez
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "I had a complex tax issue, and Tax Defense Group USA helped me every
+          step of the way. From filing my overdue returns to negotiating with
+          the IRS, they provided excellent service and professionalism. I'm
+          grateful for their support!"
         image:
           url: /images/DK-4150.png
           altText: Maria Walters
