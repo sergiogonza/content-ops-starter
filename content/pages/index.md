@@ -61,11 +61,14 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      *   *   **Tax Preparation & Planning:** Expert assistance to file
+      accurately and avoid future issues.*   **Tax Debt Relief:** We negotiate
+      directly with the IRS to reduce or resolve what you owe.*   **Audit
+      Representation:** Get professional support if you're facing an IRS
+      audit.*   **Customized Tax Solutions:** Including offers in compromise,
+      installment plans, penalty abatement, payroll tax relief, and more.
+
     actions: []
     media:
       type: ImageBlock
