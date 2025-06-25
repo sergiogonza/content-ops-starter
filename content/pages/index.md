@@ -306,7 +306,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: September 12
-        subtitle: 'Maria Walters, Company'
+        subtitle: Sofia Ramírez
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
