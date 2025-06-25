@@ -245,12 +245,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          "I contacted Tax Defense Group USA for assistance with back taxes, and
-          I couldn't be more pleased with their service. They handled everything
-          professionally and kept me informed throughout the entire process. The
-          team worked tirelessly to reduce my tax debt. Highly recommend their
-          services!"
+      - title: ''
         tagline: 'Laura González, May 14'
         subtitle: 'Maria Walters, Company'
         text: >-
