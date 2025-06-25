@@ -57,7 +57,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Tax Resolution"
                 },
                 {
                     "label": "Dropdown item",
