@@ -341,7 +341,7 @@ sections:
           issues and even managed to get me a reduction in my debt. They were
           always responsive and explained everything clearly. Great service!"
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/DK-4150.png
           altText: Maria Walters
           styles:
             self:
