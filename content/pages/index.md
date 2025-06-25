@@ -153,7 +153,7 @@ sections:
           you peace of mind and a path to financial stability. As a client,
           you’ll receive ongoing support to stay compliant.
         image:
-          url: /images/icon3.svg
+          url: /images/DK-4150.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
