@@ -370,7 +370,7 @@ sections:
           su asesoría, pude encontrar una solución viable y ahora vivo más
           tranquila."
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/DK-4150.png
           altText: Maria Walters
           styles:
             self:
