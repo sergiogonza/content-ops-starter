@@ -2,11 +2,7 @@
 title: Tax Resolution
 slug: case-study-2
 date: '2022-02-16'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: ''
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
