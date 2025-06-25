@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About US
+      - title: ''
         tagline: TAX DEFENSE GROUP USA
         subtitle: >-
           At Tax Defense Group USA, we specialize in helping individuals and
