@@ -88,7 +88,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: We help you resolve your tax problems in 3 easy steps
+      text: Resolve Your Tax Problems in 3 Simple Steps
       color: text-dark
       styles:
         self:
