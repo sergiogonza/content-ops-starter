@@ -247,7 +247,7 @@ sections:
     items:
       - title: ''
         tagline: May 14
-        subtitle: Laura González
+        subtitle: Laura Reyes
         text: >
           "I contacted Tax Defense Group USA for assistance with back taxes, and
           I couldn't be more pleased with their service. They handled everything
