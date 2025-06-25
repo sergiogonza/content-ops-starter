@@ -43,7 +43,7 @@
             "altText": "Service",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
