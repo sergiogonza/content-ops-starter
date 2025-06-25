@@ -80,7 +80,7 @@ sections:
       self:
         flexDirection: row
         justifyContent: flex-start
-        alignItems: center
+        alignItems: flex-end
       subtitle:
         textAlign: left
   - type: FeaturedItemsSection
