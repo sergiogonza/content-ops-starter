@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Tax Resolution
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/telus-logo.svg
+          url: /images/DK-4150.png
           altText: Company logo
           styles:
             self:
@@ -87,17 +87,72 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+When you're facing IRS collections, penalties, or enforcement actions, **Tax Defense Group USA** is here to help you regain control. Our tax resolution experts provide personalized strategies designed to stop aggressive collection efforts and guide you toward long-term financial recovery.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+We understand that every tax situation is unique. Whether you're dealing with years of unfiled returns, wage garnishments, or a bank levy, we’ll work with you to identify the most effective resolution option.
 
-![](/images/img-placeholder.svg)
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### **What Is Tax Resolution?**
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+Tax resolution refers to the legal and strategic process of settling tax debt or resolving disputes with the IRS or state agencies. It can involve everything from negotiating payment plans to removing liens or securing relief from penalties. At **Tax Defense Group USA**, we evaluate your financial situation and recommend the best resolution path for your needs.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+
+
+### **Our Tax Resolution Services Include:**
+
+#### 🧾 **Audit Representation**
+
+Experienced professionals defend your rights during an IRS audit and handle all correspondence.
+
+#### 💍 **Innocent Spouse Relief**
+
+We help remove your liability for a spouse or ex-spouse’s tax errors or fraud.
+
+#### 🏢 **Payroll Tax Relief**
+
+Support for business owners facing IRS action over unpaid payroll taxes.
+
+#### 📄 **Lien Resolution**
+
+Avoid or manage tax liens with strategies such as:
+
+*   Appealing a Lien
+
+*   Requesting a Lien Release
+
+*   Lien Subordination for refinancing
+
+*   Removing a Lien from your Credit Report
+
+*   Preventing Liens through proactive resolution
+
+#### 💸 **Levy Protection & Release**
+
+We stop or remove active levies on:
+
+*   Wages (Wage Garnishment)
+
+*   Bank Accounts (IRS or State Bank Levy)
+
+*   Social Security Payments
+
+*   Retirement or Pension Income
+
+
+
+### **Customized Negotiation Options**
+
+*   **Currently Not Collectible (CNC):** If you cannot pay due to financial hardship, we may request suspension of IRS collection efforts.
+
+*   **IRS Installment Plans:** Set up monthly payments tailored to your budget.
+
+*   **Offer in Compromise (OIC):** Settle your tax debt for less than the full amount owed.
+
+*   **Penalty Abatement:** Reduce or eliminate penalties if you qualify due to reasonable cause or compliance history.
+
+
+
+### **We're Ready to Help**
+
+No matter how complicated your tax situation may seem, our experienced team can help you navigate it. We’ve helped thousands of individuals and businesses resolve their tax issues and return to financial stability.
