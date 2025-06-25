@@ -78,7 +78,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: col
+        flexDirection: row
         justifyContent: flex-start
         alignItems: flex-start
       subtitle:
