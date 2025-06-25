@@ -79,7 +79,7 @@ sections:
     styles:
       self:
         flexDirection: col
-        justifyContent: flex-end
+        justifyContent: center
         alignItems: center
       subtitle:
         textAlign: left
