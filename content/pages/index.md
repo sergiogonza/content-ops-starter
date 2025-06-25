@@ -246,8 +246,11 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "I contacted Tax Defense Group USA for assistance with back taxes, and
+          I couldn't be more pleased with their service. They handled everything
+          professionally and kept me informed throughout the entire process. The
+          team worked tirelessly to reduce my tax debt. Highly recommend their
+          services!"
         tagline: 'Laura González, May 14'
         subtitle: 'Maria Walters, Company'
         text: >-
