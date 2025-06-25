@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: ''
-        tagline: This is the tagline
+        tagline: Tax Defense Group USA
         subtitle: >-
           At Tax Defense Group USA, we specialize in helping individuals and 
 
