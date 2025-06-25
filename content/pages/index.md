@@ -61,13 +61,13 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      *   *   **Tax Preparation & Planning:** Expert assistance to file
-      accurately and avoid future issues.*   **Tax Debt Relief:** We negotiate
-      directly with the IRS to reduce or resolve what you owe.*   **Audit
-      Representation:** Get professional support if you're facing an IRS
-      audit.*   **Customized Tax Solutions:** Including offers in compromise,
-      installment plans, penalty abatement, payroll tax relief, and more.
+    text: |+
+      <ul>
+        <li><strong>Tax Preparation & Planning:</strong> Expert assistance to file accurately and avoid future issues.</li>
+        <li><strong>Tax Debt Relief:</strong> We negotiate directly with the IRS to reduce or resolve what you owe.</li>
+        <li><strong>Audit Representation:</strong> Get professional support if you're facing an IRS audit.</li>
+        <li><strong>Customized Tax Solutions:</strong> Including offers in compromise, installment plans, penalty abatement, payroll tax relief, and more.</li>
+      </ul>
 
     actions: []
     media:
