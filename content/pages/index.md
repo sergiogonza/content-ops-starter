@@ -14,7 +14,7 @@ sections:
       you're facing IRS debt, need help with tax preparation, or are being
       audited, we’re here to provide trusted, step-by-step support.
     actions:
-      - label: Get started
+      - label: let's talk now
         altText: ''
         url: /
         showIcon: false
