@@ -7,7 +7,7 @@ sections:
       text: Take Control of Your Tax Situation Today
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Start resolving your tax issues from the comfort of your home.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
