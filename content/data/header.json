@@ -40,7 +40,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Dropdown",
+            "altText": "Blog",
             "links": [
                 {
                     "label": "Dropdown item",
