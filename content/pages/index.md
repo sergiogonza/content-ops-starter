@@ -238,7 +238,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Over 90% of our clients rate us 5 stars on TrustPilot. Your success is our
       priority — we work tirelessly until your case is resolved.
