@@ -255,7 +255,7 @@ sections:
           team worked tirelessly to reduce my tax debt. Highly recommend their
           services!"
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/DK-4150.png
           altText: Maria Walters
           styles:
             self:
