@@ -364,10 +364,11 @@ sections:
       - title: ''
         tagline: March 10
         subtitle: Beatriz Martínez
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "Estoy muy contenta con el servicio recibido. El equipo de Tax Defense
+          Group USA me ayudó a resolver una deuda grande con el IRS. Gracias a
+          su asesoría, pude encontrar una solución viable y ahora vivo más
+          tranquila."
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
