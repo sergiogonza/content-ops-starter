@@ -248,10 +248,12 @@ sections:
       - title: ''
         tagline: 'Laura González, May 14'
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "I contacted Tax Defense Group USA for assistance with back taxes, and
+          I couldn't be more pleased with their service. They handled everything
+          professionally and kept me informed throughout the entire process. The
+          team worked tirelessly to reduce my tax debt. Highly recommend their
+          services!"
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
