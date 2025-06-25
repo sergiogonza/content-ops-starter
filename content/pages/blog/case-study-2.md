@@ -10,7 +10,7 @@ excerpt: >-
   returns, wage garnishments, or a bank levy, we’ll work with you to identify
   the most effective resolution option.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/DK-4150.png
   altText: Case study 2
   styles:
     self:
