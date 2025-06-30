@@ -44,7 +44,7 @@
                 },
                 {
                     "label": "Tax Resolution",
-                    "url": "/tax-resolution",
+                    "url": "/blog/tax-resolution",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
