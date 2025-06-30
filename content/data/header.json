@@ -23,7 +23,7 @@
         {
             "label": "FAQ",
             "altText": "FAQ",
-            "url": "/",
+            "url": "/#FAQ",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
