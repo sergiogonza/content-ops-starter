@@ -12,157 +12,112 @@ sections:
           textAlign: center
     subtitle: Tax Defense Group USA
     text: >+
-      ****
+      ## **Legal Disclaimer**
 
 
-      ### ⚠️ Legal Disclaimer
+      Tax Defense Group USA is a private, independent tax resolution firm. We
+      are not affiliated with, nor do we represent, the Internal Revenue Service
+      (IRS) or any other government agency. We are also not a law firm and do
+      not offer legal, accounting, or bankruptcy services.
 
 
-      *   **Tax Defense Group USA is not a government agency**, and it does not
-      represent the IRS or any other government entity.
+      We do not guarantee specific outcomes regarding the reduction of tax debt
+      or acceptance into IRS programs. Every case is unique, and results vary
+      based on several factors, including the client’s cooperation, the accuracy
+      of the information provided, and the specifics of each tax situation.
+      Penalties and interest may continue to accrue until your tax liability is
+      fully paid to the IRS.
 
 
-      *   We are **not a law firm**, nor do we offer legal, bankruptcy, or
-      accounting advice.
+      By using our services, you acknowledge and accept that we do not assume
+      your tax debt, make payments on your behalf to any taxing authority or
+      creditor, or act as a financial intermediary. Our role is to represent
+      your interests before the IRS or applicable state tax agencies and work
+      toward the most favorable resolution permitted by law.
 
 
-      *   We do not make promises or guarantees regarding reductions in tax
-      debt, eligibility for IRS programs, or case outcomes.
+      If you purchased our initial Tax Analysis Review, we offer a
+      10-calendar-day money-back guarantee from the date of payment, provided
+      that a Tax Resolution Agreement has not yet been signed. This guarantee
+      applies only to the fee for the analysis service and does not apply to any
+      fees under a Tax Resolution Agreement.
 
 
-      *   **Individual results vary** depending on the accuracy and timeliness
-      of the information provided by the client.
+      By providing your contact information to us, you expressly consent to
+      receive phone calls and/or text messages related to our services. These
+      communications may include updates, promotions, and administrative
+      notices. Standard messaging or data rates may apply depending on your
+      service provider.
 
 
-      *   Penalties and interest may continue to accrue until the IRS tax debt
-      is paid in full.
+      Our services are subject to availability and may not be offered in all
+      states. We strongly encourage you to review all program materials
+      carefully before committing to any service.
 
 
-      *   Tax Defense Group USA does not assume your tax debt, make monthly
-      payments on your behalf, or claim any special affiliations with taxing
-      authorities.
 
 
-      *   By providing your contact information, you **consent to receive calls
-      and SMS** messages, which may include advertisements or service updates.
-      Standard message/data rates may apply.
+      ## **Privacy Policy**
 
 
-      *   Our **10-day money-back guarantee** applies only to the **Tax Analysis
-      Review Fee** and not to signed **Tax Resolution Fee Agreements**.
+      At Tax Defense Group USA, your privacy is a top priority. When you
+      interact with us—whether through our website, by phone, email, in person,
+      or via affiliate partners—we collect certain information to deliver
+      personalized and efficient services.
 
 
-      **Please read all service materials carefully before enrolling. Services
-      may not be available in all states.**
+      We may collect two types of information: **personally identifiable
+      information (PII)** and **non-personally identifiable information (NPI)**.
 
 
-      ### Privacy Policy
+      PII includes data you voluntarily provide, such as your name, mailing
+      address, email address, and phone number. In the course of providing our
+      services, we may request additional details necessary for tax resolution,
+      including tax records (e.g., tax returns, W-2s, 1099s), financial data
+      (bank statements, retirement accounts, income and expense reports), and
+      bookkeeping documentation relevant to your case.
 
 
-      #### 1. **Information We Collect**
+      This information is used exclusively for operational purposes—to deliver
+      the services you've requested. We do not sell, rent, or share your
+      personal information with third parties, except as required to perform our
+      services or as mandated by law. In situations where we must disclose your
+      data to third parties, such as filing returns or communicating with tax
+      authorities, we will request your prior, explicit consent. We fully comply
+      with U.S. Treasury Regulation §301.7216, which governs the use of taxpayer
+      information.
 
 
-      We collect two types of information:
+      We also collect NPI, such as IP addresses, pages visited, and referring
+      URLs. This data is used anonymously to help us improve our website and
+      analyze the effectiveness of our advertising. Tools such as Google
+      Analytics may receive this information during your visit.
 
 
-      *   **Personally Identifiable Information (PII):**
+      We safeguard all collected data using industry-standard security
+      protocols, both during transmission and while stored. Access to personal
+      information is restricted to authorized employees or contractors operating
+      under strict confidentiality agreements.
 
-          Collected through direct interaction via our website, phone, email, in-person visits, or third-party affiliates. This may include:
 
-          *   Name, address, phone number, email
+      Our website and services are intended for individuals over the age of 13.
+      We do not knowingly collect personal information from children under 13.
+      If we become aware that such data has been collected inadvertently, we
+      will take immediate steps to delete it.
 
-          *   Tax data (SSN, W-2s, 1099s, tax returns)
 
-          *   Financial info (bank, retirement, brokerage statements)
 
-          *   Business records (invoices, P\&Ls, receipts)
 
-      *   **Non-Personally Identifiable Information (NPI):**
+      ## **IRS Circular 230 Disclosure**
 
-          Data that cannot be used to directly identify you, such as:
 
-          *   IP address
-
-          *   Pages visited
-
-          *   Date and time of visit
-
-          *   Referral source (e.g., search engine, ad)
-
-      #### 2. **How We Use Your Information**
-
-
-      *   We **do not sell, rent, or share** your personal information with
-      third parties.
-
-
-      *   Your PII is used only to **provide tax services** and communicate
-      relevant updates.
-
-
-      *   Marketing communications may be sent unless you opt out (opt-out
-      instructions included in every message).
-
-
-      *   Your information may be disclosed to tax agencies (IRS or state)
-      **only as required to perform services**.
-
-
-      > We strictly follow **U.S. Treasury regulation §301.7216**, which governs
-      the disclosure of tax return information.
-
-
-      We will **never release your data to government or legal authorities**
-      without a valid subpoena. If any third-party involvement is necessary, we
-      will request your **written consent** beforehand.
-
-
-      ### Use of NPI (Non-Personal Data)
-
-
-      *   Used to analyze website traffic and improve user experience.
-
-
-      *   May be shared with advertising partners (e.g., Google Analytics) to
-      measure campaign effectiveness.
-
-
-      *   We use cookies to track user behavior **anonymously**.
-
-
-      ### Data Security
-
-
-      *   We apply **industry-standard security protocols** to protect your data
-      during transmission and storage.
-
-
-      *   Access is restricted to authorized Tax Defense Group USA personnel or
-      contracted service providers.
-
-
-      ### Children’s Privacy
-
-
-      *   Our website is not intended for users **under 13 years of age**.
-
-
-      *   We do not knowingly collect or store information from children.
-
-
-      ### IRS Circular 230 Disclosure
-
-
-      Any content on this site, **thetaxdefensegroup.com**, is not intended to:
-
-
-      *   Be used to avoid IRS penalties
-
-
-      *   Evade tax liabilities
-
-
-      *   Promote or market tax-related strategies or products
+      Any information provided on this website, **thetaxdefensegroup.com**, is
+      not intended or written to be used—and cannot be used—for the purpose of
+      avoiding penalties under the Internal Revenue Code. Furthermore, this
+      content should not be relied upon to promote, market, or recommend any
+      tax-related transaction or matter to another party. The content is for
+      informational purposes only and should not be considered legal or tax
+      advice.
 
     actions: []
     colors: bg-neutral-fg-dark
