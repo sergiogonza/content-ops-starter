@@ -541,7 +541,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Why should I choose your company?
-        subtitle: Engineering
+        subtitle: in-house
         text: >
           Unlike many firms that outsource or pass your case to unlicensed reps,
           **we handle everything in-house**.
