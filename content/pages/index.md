@@ -518,10 +518,14 @@ sections:
       - type: FeaturedItem
         title: I already have a CPA. Why do I need a tax resolution specialist?
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          CPAs focus on **tax preparation and accounting**—not IRS collections.
+          They may occasionally handle audits, but most aren’t available
+          year-round.
+
+
+          We are. In fact, we **specialize in back tax negotiations** and are
+          available **throughout the year, including Saturdays**.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
