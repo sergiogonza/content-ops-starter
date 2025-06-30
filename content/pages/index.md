@@ -473,7 +473,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 'Facing IRS Tax Debt Over $10,000?We''re Here to Help.'
+      text: ✅ Frequently Asked Questions
       color: text-dark
       styles:
         self:
