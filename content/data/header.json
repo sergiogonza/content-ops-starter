@@ -23,7 +23,7 @@
         {
             "label": "FAQ",
             "altText": "FAQ",
-            "url": "/careers",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
