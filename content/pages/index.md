@@ -429,7 +429,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: 'Facing IRS Tax Debt Over $10,000?We''re Here to Help.'
       color: text-dark
       styles:
         self:
