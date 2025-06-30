@@ -575,10 +575,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: >-
-        Have a tax issue? We're ready to help.Reach out to us directly, or fill
-        out the form below and a licensed tax professional will contact you
-        shortly.
+      text: Have a tax issue? We're ready to help
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
