@@ -8,20 +8,13 @@
     "socialLinks": [],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Privacy Policy & Legal Disclaimer",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Privacy"
         }
     ],
     "copyrightText": "© 2025 Tax Defense Group USA\n",
