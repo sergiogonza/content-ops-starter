@@ -484,7 +484,7 @@ sections:
         title: >-
           How can I stop the IRS from levying my bank account or garnishing my
           wages?
-        subtitle: Sales
+        subtitle: Wages
         text: >
           The moment you hire us, our top priority is to **stop all IRS
           collection actions**, including:
