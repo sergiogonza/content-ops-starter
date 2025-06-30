@@ -600,8 +600,22 @@ sections:
         title: What can you do for me?
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We review your financial records and recommend the **best resolution
+          program** for your situation, which may include:
+
+
+          *   Installment Agreements
+
+
+          *   Financial Hardship Classification
+
+
+          *   Offer in Compromise
+
+
+          We don’t make empty promises—we give you real options after fully
+          evaluating your case.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
