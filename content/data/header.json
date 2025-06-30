@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "tax preparation",
-                    "url": "/",
+                    "url": "/tax-preparation",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
