@@ -481,7 +481,9 @@ sections:
     subtitle: FAQ
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: >-
+          How can I stop the IRS from levying my bank account or garnishing my
+          wages?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
