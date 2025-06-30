@@ -434,7 +434,11 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: >-
+      If you're dealing with overwhelming tax debt, you're not alone—and you
+      don't have to face the IRS by yourself. Our experienced team is ready to
+      answer your questions and take immediate action to protect your income and
+      assets.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
