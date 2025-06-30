@@ -429,7 +429,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Facing IRS Tax Debt Over $10,000?We''re Here to Help.'
       color: text-dark
       styles:
         self:
