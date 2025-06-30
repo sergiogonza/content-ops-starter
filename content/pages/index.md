@@ -575,7 +575,10 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: >-
+        Have a tax issue? We're ready to help.Reach out to us directly, or fill
+        out the form below and a licensed tax professional will contact you
+        shortly.
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
