@@ -13,7 +13,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Privacy"
         }
     ],
     "copyrightText": "© 2025 Tax Defense Group USA\n",
