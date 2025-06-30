@@ -35,7 +35,7 @@
             "links": [
                 {
                     "label": "Tax Debt Relief",
-                    "url": "/tax-debt-relief",
+                    "url": "/blog/tax-debt-relief",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -44,7 +44,7 @@
                 },
                 {
                     "label": "Tax Resolution",
-                    "url": "/tax-resolution",
+                    "url": "/blog/tax-resolution",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "tax preparation",
-                    "url": "/tax-preparation",
+                    "url": "/blog/tax-preparation",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
