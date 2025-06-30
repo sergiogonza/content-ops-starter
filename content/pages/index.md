@@ -542,10 +542,14 @@ sections:
       - type: FeaturedItem
         title: Why should I choose your company?
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Unlike many firms that outsource or pass your case to unlicensed reps,
+          **we handle everything in-house**.
+
+
+          Your case will be reviewed and assigned to a **licensed Tax
+          Practitioner and Assistant**, and you’ll have direct access to them
+          via phone, email, and text.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
