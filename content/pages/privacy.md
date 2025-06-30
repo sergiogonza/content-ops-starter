@@ -12,12 +12,7 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >+
-      ## Privacy Policy & Legal Disclaimer
-
-
-      **Tax Defense Group USA**
-
-
+      ****
 
 
       ### ⚠️ Legal Disclaimer
@@ -59,8 +54,6 @@ sections:
 
       **Please read all service materials carefully before enrolling. Services
       may not be available in all states.**
-
-
 
 
       ### Privacy Policy
@@ -124,8 +117,6 @@ sections:
       will request your **written consent** beforehand.
 
 
-
-
       ### Use of NPI (Non-Personal Data)
 
 
@@ -139,8 +130,6 @@ sections:
       *   We use cookies to track user behavior **anonymously**.
 
 
-
-
       ### Data Security
 
 
@@ -152,8 +141,6 @@ sections:
       contracted service providers.
 
 
-
-
       ### Children’s Privacy
 
 
@@ -161,8 +148,6 @@ sections:
 
 
       *   We do not knowingly collect or store information from children.
-
-
 
 
       ### IRS Circular 230 Disclosure
