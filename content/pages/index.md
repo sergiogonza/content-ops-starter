@@ -473,7 +473,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ✅ Frequently Asked Questions
+      text: Frequently Asked Questions
       color: text-dark
       styles:
         self:
