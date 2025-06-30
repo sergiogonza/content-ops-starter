@@ -485,10 +485,23 @@ sections:
           How can I stop the IRS from levying my bank account or garnishing my
           wages?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The moment you hire us, our top priority is to **stop all IRS
+          collection actions**, including:
+
+
+          *   Freezing bank account levies
+
+
+          *   Ending wage garnishments
+
+
+          *   Halting future asset seizures
+
+
+          We immediately begin negotiations with the IRS to reach the best
+          resolution for your financial situation, protecting your income and
+          giving you peace of mind.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
