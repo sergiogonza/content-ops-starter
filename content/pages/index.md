@@ -439,11 +439,29 @@ sections:
       don't have to face the IRS by yourself. Our experienced team is ready to
       answer your questions and take immediate action to protect your income and
       assets.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ### Stop IRS Bank Levies and Wage Garnishments
+
+
+      **Take Control of Your Finances.**
+
+
+      The moment you hire us, our priority is to **halt all IRS collection
+      actions**, including:
+
+
+      *   Freezing future bank account levies
+
+
+      *   Stopping wage garnishments
+
+
+      *   Preventing additional asset seizures
+
+
+      We step in to **negotiate directly with the IRS**, aiming for the best
+      resolution for your unique case. Our mission is to bring you peace of mind
+      and shield your finances while we work on a long-term solution.
     actions: []
     colors: bg-light-fg-dark
     styles:
