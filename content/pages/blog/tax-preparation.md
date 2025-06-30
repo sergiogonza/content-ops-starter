@@ -1,6 +1,6 @@
 ---
 title: Tax Preparation Services
-slug: case-study-3
+slug: tax-preparation
 date: '2021-11-18'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
