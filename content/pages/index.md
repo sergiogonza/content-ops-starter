@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: TAX CONTROL
+      label: 'TAX CONTROL '
       color: text-primary
       type: Badge
     elementId: ''
