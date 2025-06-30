@@ -599,7 +599,7 @@ sections:
       - type: FeaturedItem
         title: What can you do for me?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
