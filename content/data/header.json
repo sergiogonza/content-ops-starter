@@ -13,26 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Service",
-            "altText": "Service",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "FAQ",
+            "altText": "FAQ",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -44,7 +35,7 @@
             "links": [
                 {
                     "label": "Tax Debt Relief",
-                    "url": "/case-study-1",
+                    "url": "/tax-debt-relief",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -53,7 +44,7 @@
                 },
                 {
                     "label": "Tax Resolution",
-                    "url": "/case-study-2",
+                    "url": "/tax-resolution",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -61,12 +52,13 @@
                     "altText": "Tax Resolution"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "tax preparation",
+                    "url": "/tax-preparation",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "tax preparation"
                 }
             ],
             "labelStyle": "secondary",

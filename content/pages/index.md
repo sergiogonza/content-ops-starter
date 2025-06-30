@@ -426,16 +426,235 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: 'Facing IRS Tax Debt Over $10,000?We''re Here to Help.'
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: >-
+      If you're dealing with overwhelming tax debt, you're not alone—and you
+      don't have to face the IRS by yourself. Our experienced team is ready to
+      answer your questions and take immediate action to protect your income and
+      assets.
+    text: >
+      ### Stop IRS Bank Levies and Wage Garnishments
+
+
+      **Take Control of Your Finances.**
+
+
+      The moment you hire us, our priority is to **halt all IRS collection
+      actions**, including:
+
+
+      *   Freezing future bank account levies
+
+
+      *   Stopping wage garnishments
+
+
+      *   Preventing additional asset seizures
+
+
+      We step in to **negotiate directly with the IRS**, aiming for the best
+      resolution for your unique case. Our mission is to bring you peace of mind
+      and shield your finances while we work on a long-term solution.
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Frequently Asked Questions
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: FAQ
+    items:
+      - type: FeaturedItem
+        title: >-
+          How can I stop the IRS from levying my bank account or garnishing my
+          wages?
+        subtitle: Wages
+        text: >
+          The moment you hire us, our top priority is to **stop all IRS
+          collection actions**, including:
+
+
+          *   Freezing bank account levies
+
+
+          *   Ending wage garnishments
+
+
+          *   Halting future asset seizures
+
+
+          We immediately begin negotiations with the IRS to reach the best
+          resolution for your financial situation, protecting your income and
+          giving you peace of mind.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: I already have a CPA. Why do I need a tax resolution specialist?
+        subtitle: CPA
+        text: >
+          CPAs focus on **tax preparation and accounting**—not IRS collections.
+          They may occasionally handle audits, but most aren’t available
+          year-round.
+
+
+          We are. In fact, we **specialize in back tax negotiations** and are
+          available **throughout the year, including Saturdays**.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Why should I choose your company?
+        subtitle: in-house
+        text: >
+          Unlike many firms that outsource or pass your case to unlicensed reps,
+          **we handle everything in-house**.
+
+
+          Your case will be reviewed and assigned to a **licensed Tax
+          Practitioner and Assistant**, and you’ll have direct access to them
+          via phone, email, and text.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: What types of taxes do you handle?
+        tagline: This is the tagline
+        subtitle: ''
+        text: |+
+          We handle a wide range of tax issues, including:
+
+          *   IRS and state personal income taxes
+
+          *   Business income, payroll, and employment taxes
+
+          *   Sales & use taxes
+
+          *   Tobacco and cigarette taxes
+
+          *   Trust fund recovery penalties and more
+
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: What can you do for me?
+        tagline: This is the tagline
+        subtitle: ''
+        text: >
+          We review your financial records and recommend the **best resolution
+          program** for your situation, which may include:
+
+
+          *   Installment Agreements
+
+
+          *   Financial Hardship Classification
+
+
+          *   Offer in Compromise
+
+
+          We don’t make empty promises—we give you real options after fully
+          evaluating your case.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Have a tax issue? We're ready to help
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Reach out to us directly, or fill out the form below and a licensed tax
+      professional will contact you shortly.
     media:
       fields:
         - name: name
