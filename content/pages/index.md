@@ -478,7 +478,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: FAQ
     items:
       - type: FeaturedItem
         title: Account Executive
