@@ -57,7 +57,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "tax preparation"
                 }
             ],
             "labelStyle": "secondary",
