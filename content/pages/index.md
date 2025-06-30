@@ -517,7 +517,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: I already have a CPA. Why do I need a tax resolution specialist?
-        subtitle: Marketing
+        subtitle: CPA
         text: >
           CPAs focus on **tax preparation and accounting**—not IRS collections.
           They may occasionally handle audits, but most aren’t available
