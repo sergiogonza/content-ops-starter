@@ -564,17 +564,7 @@ sections:
       - type: FeaturedItem
         title: What types of taxes do you handle?
         tagline: This is the tagline
-        subtitle: |-
-          We handle a wide range of tax issues, including:
-          IRS and state personal income taxes
-
-          Business income, payroll, and employment taxes
-
-          Sales & use taxes
-
-          Tobacco and cigarette taxes
-
-          Trust fund recovery penalties and more
+        subtitle: ''
         text: |+
           We handle a wide range of tax issues, including:
 
