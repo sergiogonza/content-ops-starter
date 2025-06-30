@@ -564,7 +564,17 @@ sections:
       - type: FeaturedItem
         title: What types of taxes do you handle?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: |-
+          We handle a wide range of tax issues, including:
+          IRS and state personal income taxes
+
+          Business income, payroll, and employment taxes
+
+          Sales & use taxes
+
+          Tobacco and cigarette taxes
+
+          Trust fund recovery penalties and more
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
