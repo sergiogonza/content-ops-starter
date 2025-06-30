@@ -44,7 +44,7 @@
                 },
                 {
                     "label": "Tax Resolution",
-                    "url": "/case-study-2",
+                    "url": "/tax-resolution",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
