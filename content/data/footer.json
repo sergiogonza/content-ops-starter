@@ -5,37 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "",
-    "primaryLinks": {
-        "title": "TAX DEFENSE GROUP USA",
-        "links": [
-            {
-                "label": "Service",
-                "altText": "service",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [],
     "legalLinks": [
         {
