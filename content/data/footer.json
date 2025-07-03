@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "",
+    "text": "30 Wall Street, 8th Floor New York, NY 10005\n",
     "socialLinks": [],
     "legalLinks": [
         {
@@ -19,5 +19,6 @@
     ],
     "copyrightText": "© 2025 Tax Defense Group USA\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "Address"
 }
