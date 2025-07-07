@@ -23,7 +23,7 @@
     "title": "Address",
     "primaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "Company",
+        "title": "Phone",
         "links": [
             {
                 "type": "Link",
