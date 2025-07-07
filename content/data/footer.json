@@ -5,7 +5,15 @@
         "type": "ImageBlock"
     },
     "text": "30 Wall Street, 8th Floor New York, NY 10005\n",
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/https://www.facebook.com/profile.php?id=61578338120484",
+            "icon": "facebook",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [
         {
             "label": "Privacy Policy & Legal Disclaimer",
