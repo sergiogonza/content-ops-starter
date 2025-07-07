@@ -56,7 +56,7 @@
             {
                 "type": "Link",
                 "label": "support@taxdefensegroupusa.com",
-                "altText": "",
+                "altText": "support@taxdefensegroupusa.com",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
