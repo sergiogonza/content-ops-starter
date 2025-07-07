@@ -20,5 +20,50 @@
     "copyrightText": "© 2025 Tax Defense Group USA\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Address"
+    "title": "Address",
+    "primaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Phone",
+        "links": [
+            {
+                "type": "Link",
+                "label": "+18887638540",
+                "altText": "+18887638540",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "+19172777123",
+                "altText": "19172777123",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    },
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "MAIL",
+        "links": [
+            {
+                "type": "Link",
+                "label": "support@taxdefensegroupusa.com",
+                "altText": "support@taxdefensegroupusa.com",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
