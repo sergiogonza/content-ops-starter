@@ -52,13 +52,13 @@
                     "altText": "Tax Resolution"
                 },
                 {
-                    "label": "tax preparation",
+                    "label": "Tax preparation",
                     "url": "/blog/tax-preparation",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
-                    "altText": "tax preparation"
+                    "altText": "Tax preparation"
                 }
             ],
             "labelStyle": "secondary",
