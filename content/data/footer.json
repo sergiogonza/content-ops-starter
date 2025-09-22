@@ -9,14 +9,14 @@
         {
             "type": "Social",
             "altText": "Facebook link",
-            "url": "/https://www.facebook.com/profile.php?id=61578338120484",
+            "url": "https://www.facebook.com/profile.php?id=61578338120484",
             "icon": "facebook",
             "elementId": ""
         },
         {
             "type": "Social",
             "altText": "Instagram link",
-            "url": "/https://www.instagram.com/taxdefensegroupusa",
+            "url": "https://www.instagram.com/taxdefensegroupusa",
             "icon": "instagram",
             "elementId": ""
         }
